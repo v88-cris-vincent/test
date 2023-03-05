@@ -1,7 +1,3 @@
 Test
-<<<<<<< HEAD
 dagdag
 dfgsdfgdfgdfg
-=======
-asdf
->>>>>>> 3d49e82fd6cc1f1226ea964fff8bb08d3b16ecbe
